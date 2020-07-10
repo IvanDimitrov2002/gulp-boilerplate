@@ -33,7 +33,3 @@ Follow these steps in order to get the website up and running locally on your ma
 - `gulp scripts` to run the script tasks
 - `gulp images` to run the image tasks
 - `gulp favicon` to run the favicon tasks
-
-## Tips
-
-- You can use any file structure for your javascript and scss files. The one provided is an example.
