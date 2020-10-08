@@ -6,10 +6,10 @@ A simple boilerplate for front-end web development which uses [Gulp](https://gul
 
 - Live reloading
 - Cache busting
-- SCSS converted to css, auto prefixed and minified with sourcemaps)
-- Javascript concatenated into a single file, minified with sourcemaps and supports ES6)
+- Sass converted to css, auto prefixed and minified with sourcemaps
+- JavaScript concatenated into a single file, minified with sourcemaps and supports ES6
 - Image minifying
-- SCSS Normalize/Reset (default is Normalize)
+- Normalize/Reset (default is Normalize)
 
 ## Getting Started
 
